@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "Wrapper for angular-simple-logger that points to light version (doesn't require angular.js explicitly)",
   "main": "angular-simple-logger-light.js",
+  "homepage": "https://github.com/dtromblee/angular-simple-logger-light",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtromblee/angular-simple-logger-light"
+  },
   "scripts": {
     "test": "test"
   },
