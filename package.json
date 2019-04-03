@@ -1,0 +1,18 @@
+{
+  "name": "angular-simple-logger-light",
+  "version": "1.0.0",
+  "description": "Wrapper for angular-simple-logger that points to light version (doesn't require angular.js explicitly)",
+  "main": "angular-simple-logger-light.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "dtromblee",
+  "license": "ISC",
+  "dependencies": {
+    "angular-simple-logger": "~0.1.7"
+  }
+}
+
