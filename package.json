@@ -1,6 +1,6 @@
 {
   "name": "angular-simple-logger-light",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Wrapper for angular-simple-logger that points to light version (doesn't require angular.js explicitly)",
   "main": "angular-simple-logger-light.js",
   "homepage": "https://github.com/dtromblee/angular-simple-logger-light",
